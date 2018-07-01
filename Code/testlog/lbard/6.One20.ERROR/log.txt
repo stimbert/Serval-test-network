@@ -1,0 +1,24 @@
+Name:     One20 (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:22.427
+Finished: 2018-04-10 15:03:22.589
+++++++++++ log.stdout ++++++++++
+15:03:22.452 # SETUP
+15:03:22.467 # call setup_One20()
+15:03:22.486 ERROR: in setup_servald: servald executable not present: 
+15:03:22.502 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup20() at line 107 of ./tests/lbard
+[2] setup20() called from setup_One20() at line 382 of ./tests/lbard
+15:03:22.521 #-----
+15:03:22.530 # FINALISE
+15:03:22.542 # CALL finally(One20)
+15:03:22.553 # fork_terminate_all
+15:03:22.562 # fork_wait_all
+15:03:22.570 # END FINALLY
+15:03:22.575 # TEARDOWN
+15:03:22.583 # CALL teardown(One20)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

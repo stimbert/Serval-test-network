@@ -1,0 +1,8 @@
+#!/bin/sh
+
+len=`netstat -nlp|grep 8800|wc -l`
+echo $len
+if [ $len -eq 0 ]
+then 
+	~/Documents/ServalServerTest/server
+fi

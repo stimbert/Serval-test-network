@@ -1,0 +1,81 @@
+\chapter{How to use it?}
+
+Once the installation steps are done, using the client is quite easy.
+You simply need to launch the client\_shell in a terminal using the command:
+\begin{lstlisting}
+	###: ./client_shell
+\end{lstlisting}
+
+It will launch a shell-like interface.
+In this interface, you can input some commands to control the client.
+
+We have two type of command:
+\begin{itemize}
+	\item built in functions: functions written in c to control the system
+	\item classic shell command
+\end{itemize}
+
+We are mainly interested in the built in functions.
+The available commands are:
+\begin{itemize}
+	\item help: list the available built in functions
+	\item exit: close the client\_shell
+	\item launch: launch a client
+	\item findServers: update the list of available servers
+	\item displayServers: display the available servers
+	\item close: close a client
+	\item list: list the clients currently running 
+	\item log: start or stop logging the data for one client
+\end{itemize}
+
+If you type a function but do not put the right parameters, the shell will display a short message
+explaining how to use the function properly.
+
+Here is an example of process you want to do when starting the client\_shell for the first time:
+First we want to find the available servers. So we type:
+\begin{lstlisting}
+	displayServers
+\end{lstlisting}
+We get a list of the available servers. Each server has a number in front of it. We can use this number to start a client who will communicate with this server.
+\begin{lstlisting}
+	launch 0
+\end{lstlisting}
+
+A new window pops up. This is the client we just created.
+We can start another client on another server.
+\begin{lstlisting}
+	launch 1
+\end{lstlisting}
+
+
+Now we want to list the clients running. So we type:
+\begin{lstlisting}
+	list
+\end{lstlisting}
+We get a list of the clients running. Each client has a number in front of it. We can use this number to send messages to the client.
+
+
+For instance, we may want to log the data of the first client in a file called "`Log;\_UHF"'.
+\begin{lstlisting}
+	log 0 Log_UHF
+\end{lstlisting}
+The client with the index 0 will start to log the data in the file Log\_UHF.
+
+After a while, we think we have enough data and we want to stop logging them.
+\begin{lstlisting}
+	log 0 stop
+\end{lstlisting}
+
+With the same command log wa can stop it. However, it means stop can't be the filename.
+
+Finally we want to shutdown all the clients.
+\begin{lstlisting}
+	close all
+\end{lstlisting}
+This will close all the clients and their connections. If we wanted to shutdown only one client, we just have to replace "`all"' by the number of the client.
+
+
+
+
+
+

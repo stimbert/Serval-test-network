@@ -1,0 +1,29 @@
+\begin{abstract}
+
+The Serval project started 8 years ago with the goal of creating an affordable communication solution that will work when the classic mobile network is not working. The team working on this project realised that some places didn't have a communication tool and that communication network may fail because of natural disasters (earthquakes, ...) or human disasters (terrorist, network congestion). That's why they wanted to create a new communication solution.
+
+After working for several years, they recently did some real testing in Vanuatu. These tests revealed some faults in their solution and the Mesh Extender in particular. The Mesh Extender, is an important device in the Serval network as it plays two roles:
+\begin{itemize}
+	\item It is an access point to the network for the phone thanks to its Wi-Fi interface
+	\item It is a router in the network. All the Mesh Extenders connect to each other via Wi-Fi to create a mesh network.
+\end{itemize}
+
+In order to find new faults and fix known ones, the team needed a test network. They currently lack a real practical test network in the building of Tonsley. My project was to design and deploy a test network in two months. 
+In this thesis, I will present the solution I have come up with and how to install it. 
+The test network developed has the following properties:
+\begin{itemize}
+	\item Affordable
+	\item Easy to use
+	\item Easy to expand
+	\item Practical
+	\item Easy to reproduce elsewhere
+\end{itemize} 
+
+The solution is based on affordable components. Indeed, for my project I had a budget of around 300Aud\$ for any component I was not able to find in the laboratory.
+Therefore, the network part is based on small Linux routers (Gl-AR150 and GL-AR750). They have the advantages of being small, affordable and you have a full control over the OS and the software.
+
+The solution to supervise the Mesh Extenders is based around a TCP client-server system written in C. To make it easier to use, a shell-like interface with basic commands was developed.
+
+
+
+\end{abstract}

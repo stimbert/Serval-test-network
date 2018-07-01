@@ -1,0 +1,24 @@
+Name:     MessageDeliveryWithOthers (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:24.848
+Finished: 2018-04-10 15:03:25.036
+++++++++++ log.stdout ++++++++++
+15:03:24.870 # SETUP
+15:03:24.886 # call setup_MessageDeliveryWithOthers()
+15:03:24.911 ERROR: in setup_servald: servald executable not present: 
+15:03:24.926 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup() at line 38 of ./tests/lbard
+[2] setup() called from setup_MessageDeliveryWithOthers() at line 704 of ./tests/lbard
+15:03:24.939 #-----
+15:03:24.954 # FINALISE
+15:03:24.976 # CALL finally(MessageDeliveryWithOthers)
+15:03:24.989 # fork_terminate_all
+15:03:25.006 # fork_wait_all
+15:03:25.013 # END FINALLY
+15:03:25.020 # TEARDOWN
+15:03:25.028 # CALL teardown(MessageDeliveryWithOthers)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

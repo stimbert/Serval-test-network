@@ -1,0 +1,24 @@
+Name:     MessageDeliveryLoss (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:24.590
+Finished: 2018-04-10 15:03:24.737
+++++++++++ log.stdout ++++++++++
+15:03:24.613 # SETUP
+15:03:24.630 # call setup_MessageDeliveryLoss()
+15:03:24.653 ERROR: in setup_servald: servald executable not present: 
+15:03:24.663 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup() at line 38 of ./tests/lbard
+[2] setup() called from setup_MessageDeliveryLoss() at line 695 of ./tests/lbard
+15:03:24.670 #-----
+15:03:24.676 # FINALISE
+15:03:24.685 # CALL finally(MessageDeliveryLoss)
+15:03:24.694 # fork_terminate_all
+15:03:24.702 # fork_wait_all
+15:03:24.709 # END FINALLY
+15:03:24.718 # TEARDOWN
+15:03:24.728 # CALL teardown(MessageDeliveryLoss)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

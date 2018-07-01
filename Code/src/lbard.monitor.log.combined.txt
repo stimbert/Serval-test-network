@@ -1,0 +1,505 @@
+2018/04/31 19:36.32:    1527674792.300807:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.305688:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [64--191) of manifest.
+2018/04/31 19:36.32:    1527674792.307067:6ABE0326E806*                 :CSMA Data frame: frame len=224, FEC OK
+2018/04/31 19:36.32:    1527674792.308234:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [128--255) of manifest.
+2018/04/31 19:36.32:    1527674792.313333:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.316031:6ABE0326E806*                 :CSMA Data frame: frame len=224, FEC OK
+2018/04/31 19:36.32:    1527674792.316492:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.319382:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [64--191) of manifest.
+2018/04/31 19:36.32:    1527674792.319997:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:36.32:    1527674792.320367:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [64--191) of manifest.
+2018/04/31 19:36.32:    1527674792.320971:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.321195:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:36.32:    1527674792.322785:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.323125:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.323327:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.323783:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [192--255) of manifest.
+2018/04/31 19:36.32:    1527674792.327518:6ABE0326E806*                 :CSMA Data frame: frame len=223, FEC OK
+2018/04/31 19:36.32:    1527674792.330669:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.330798:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:36.32:    1527674792.331027:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.331115:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.331208:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.331404:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.334442:6ABE0326E806*                 :CSMA Data frame: frame len=226, FEC OK
+2018/04/31 19:36.32:    1527674792.339746:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.340059:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.343577:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:36.32:    1527674792.345648:6ABE0326E806*                 :CSMA Data frame: frame len=227, FEC OK
+2018/04/31 19:36.32:    1527674792.346239:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:36.32:    1527674792.346681:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.347011:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.347264:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.347598:6ABE0326E806*                 :CSMA Data frame: frame len=215, FEC OK
+2018/04/31 19:36.32:    1527674792.348047:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:36.32:    1527674792.348488:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.348583:6ABE0326E806*                 :CSMA Data frame: frame len=224, FEC OK
+2018/04/31 19:36.32:    1527674792.348881:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:36.32:    1527674792.349220:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.349475:6ABE0326E806*                 :CSMA Data frame: frame len=224, FEC OK
+2018/04/31 19:36.32:    1527674792.349746:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:36.32:    1527674792.350066:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.359539:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.359745:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.359905:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.360114:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.361236:6ABE0326E806*                 :CSMA Data frame: frame len=226, FEC OK
+2018/04/31 19:36.32:    1527674792.363650:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [128--255) of manifest.
+2018/04/31 19:36.32:    1527674792.364051:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:36.32:    1527674792.365009:6ABE0326E806*                 :CSMA Data frame: frame len=224, FEC OK
+2018/04/31 19:36.32:    1527674792.365308:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:36.32:    1527674792.365642:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:36.32:    1527674792.367783:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [128--255) of manifest.
+2018/04/31 19:36.32:    1527674792.375735:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:36.32:    1527674792.377705:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:15.57 (    2130608757.889430)
+2018/04/31 19:36.32:    1527674792.377901:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:36.32:    1527674792.378197:6ABE0326E806*                 :CSMA Data frame: frame len=216, FEC OK
+2018/04/31 19:36.32:    1527674792.378426:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [64--191) of manifest.
+2018/04/31 19:36.32:    1527674792.379687:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:36.32:    1527674792.380002:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:36.32:    1527674792.383548:6ABE0326E806*                 :CSMA Data frame: frame len=216, FEC OK
+2018/04/31 19:38.30:    1527674910.711045:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:15.59 (    2130608759.446612)
+2018/04/31 19:38.30:    1527674910.712158:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [128--255) of manifest.
+2018/04/31 19:38.30:    1527674910.713102:6ABE0326E806*                 :CSMA Data frame: frame len=221, FEC OK
+2018/04/31 19:38.30:    1527674910.713485:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:38.30:    1527674910.713820:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.714121:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:38.30:    1527674910.714481:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.30:    1527674910.714700:6ABE0326E806*                 :CSMA Data frame: frame len=216, FEC OK
+2018/04/31 19:38.30:    1527674910.715777:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [64--191) of manifest.
+2018/04/31 19:38.30:    1527674910.716105:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.716461:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:16.01 (    2130608761.529652)
+2018/04/31 19:38.30:    1527674910.716647:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [64--191) of manifest.
+2018/04/31 19:38.30:    1527674910.717290:6ABE0326E806*                 :CSMA Data frame: frame len=216, FEC OK
+2018/04/31 19:38.30:    1527674910.719598:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:38.30:    1527674910.720868:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.722112:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:16.03 (    2130608763.562249)
+2018/04/31 19:38.30:    1527674910.722608:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:38.30:    1527674910.723896:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.30:    1527674910.724311:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:38.30:    1527674910.724916:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:38.30:    1527674910.725584:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.726617:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:38.30:    1527674910.729932:6ABE0326E806*                 :CSMA Data frame: frame len=216, FEC OK
+2018/04/31 19:38.30:    1527674910.733750:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:38.30:    1527674910.737402:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.737592:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [128--255) of manifest.
+2018/04/31 19:38.30:    1527674910.738204:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.738432:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [128--255) of manifest.
+2018/04/31 19:38.30:    1527674910.739993:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.742123:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:38.30:    1527674910.742405:6abe0326e806*                 :Payload length: BID=D3DF8DEA7D75**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.30:    1527674910.742510:6ABE0326E806*                 :CSMA Data frame: frame len=216, FEC OK
+2018/04/31 19:38.30:    1527674910.751604:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [128--255) of manifest.
+2018/04/31 19:38.30:    1527674910.754081:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.755959:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:38.30:    1527674910.756287:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.756615:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [64--191) of manifest.
+2018/04/31 19:38.30:    1527674910.756993:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.759899:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [0--127) of manifest.
+2018/04/31 19:38.30:    1527674910.760312:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.760549:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [128--255) of manifest.
+2018/04/31 19:38.30:    1527674910.761015:6ABE0326E806*                 :CSMA Data frame: frame len=203, FEC OK
+2018/04/31 19:38.30:    1527674910.763678:6abe0326e806*                 :Piece of bundle: BID=d3df8dea7d75dc65*, [64--191) of manifest.
+2018/04/31 19:38.30:    1527674910.768002:6ABE0326E806*                 :CSMA Data frame: frame len=208, FEC OK
+2018/04/31 19:38.30:    1527674910.768215:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.30:    1527674910.768527:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.207654:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.207948:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.208157:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.208373:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.208530:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.208752:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.208937:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.209206:6ABE0326E806*                 :CSMA Data frame: frame len=57, FEC OK
+2018/04/31 19:38.48:    1527674928.209377:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.209560:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.209743:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.209986:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:16.29 (    2130608789.951116)
+2018/04/31 19:38.48:    1527674928.210219:6ABE0326E806*                 :CSMA Data frame: frame len=65, FEC OK
+2018/04/31 19:38.48:    1527674928.210418:6ABE0326E806*                 :CSMA Data frame: frame len=52, FEC OK
+2018/04/31 19:38.48:    1527674928.211303:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--127) of manifest.
+2018/04/31 19:38.48:    1527674928.212113:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.215872:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:38.48:    1527674928.216875:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--255) of manifest.
+2018/04/31 19:38.48:    1527674928.219072:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.219898:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:38.48:    1527674928.220120:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.223563:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.223897:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.226452:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:38.48:    1527674928.228381:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.228707:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.233878:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.235967:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.238723:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--63) of manifest.
+2018/04/31 19:38.48:    1527674928.238982:6ABE0326E806*                 :CSMA Data frame: frame len=233, FEC OK
+2018/04/31 19:38.48:    1527674928.239212:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--127) of manifest.
+2018/04/31 19:38.48:    1527674928.239440:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.239765:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:38.48:    1527674928.239980:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.245782:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.246055:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.252191:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:38.48:    1527674928.259772:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--255) of manifest.
+2018/04/31 19:38.48:    1527674928.261198:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.261762:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:38.48:    1527674928.262785:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.262905:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.267262:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.267804:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.270559:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.270960:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:38.48:    1527674928.271603:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--255) of manifest.
+2018/04/31 19:38.48:    1527674928.272289:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:38.48:    1527674928.272814:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--255) of manifest.
+2018/04/31 19:38.48:    1527674928.273281:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.273761:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:38.48:    1527674928.275595:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.275858:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.276359:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--63) of manifest.
+2018/04/31 19:38.48:    1527674928.276809:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.277225:6ABE0326E806*                 :CSMA Data frame: frame len=212, FEC OK
+2018/04/31 19:38.48:    1527674928.282591:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.282975:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.283247:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.283395:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.288018:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.288248:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.288881:6ABE0326E806*                 :CSMA Data frame: frame len=214, FEC OK
+2018/04/31 19:38.48:    1527674928.289399:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.289607:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.290036:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.290339:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.291725:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.292022:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:38.48:    1527674928.292436:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.292684:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.292981:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.293130:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.293528:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:38.48:    1527674928.303091:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.303353:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:38.48:    1527674928.303483:6ABE0326E806*                 :CSMA Data frame: frame len=219, FEC OK
+2018/04/31 19:40.48:    1527675048.836046:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.836325:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.836634:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.836906:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.837046:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.837306:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:40.48:    1527675048.837621:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.837781:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.838029:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.839422:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.839841:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--63) of manifest.
+2018/04/31 19:40.48:    1527675048.840140:6ABE0326E806*                 :CSMA Data frame: frame len=233, FEC OK
+2018/04/31 19:40.48:    1527675048.840660:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.840961:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.841197:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [64--127) of manifest.
+2018/04/31 19:40.48:    1527675048.853278:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.855594:6ABE0326E806*                 :CSMA Data frame: frame len=212, FEC OK
+2018/04/31 19:40.48:    1527675048.855882:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.856189:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.857678:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.863336:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.867496:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.867684:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.872231:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.872416:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.874447:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:40.48:    1527675048.877107:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.879472:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.881438:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.881522:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.881684:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.882037:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:40.48:    1527675048.882348:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.882700:6ABE0326E806*                 :CSMA Data frame: frame len=216, FEC OK
+2018/04/31 19:40.48:    1527675048.882995:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:16.43 (    2130608803.432921)
+2018/04/31 19:40.48:    1527675048.883170:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.883396:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.883825:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.884584:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.885572:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.885899:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.894847:6ABE0326E806*                 :CSMA Data frame: frame len=227, FEC OK
+2018/04/31 19:40.48:    1527675048.896696:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.899853:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.900673:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.902088:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.902609:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.904123:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:40.48:    1527675048.908196:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.913370:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.915349:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.919117:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.921072:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [192--255) of manifest.
+2018/04/31 19:40.48:    1527675048.922073:6ABE0326E806*                 :CSMA Data frame: frame len=223, FEC OK
+2018/04/31 19:40.48:    1527675048.922300:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.922401:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.922560:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.922632:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.924992:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--63) of manifest.
+2018/04/31 19:40.48:    1527675048.935382:6ABE0326E806*                 :CSMA Data frame: frame len=233, FEC OK
+2018/04/31 19:40.48:    1527675048.939461:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.939604:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.939809:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.939894:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.940051:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.940123:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.940484:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.948219:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.948429:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:40.48:    1527675048.950411:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.950529:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.950710:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.950892:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:40.48:    1527675048.951171:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.951247:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.952040:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.952204:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.952548:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.952699:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.953094:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.953484:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.954204:6ABE0326E806*                 :CSMA Data frame: frame len=233, FEC OK
+2018/04/31 19:40.48:    1527675048.967100:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.969873:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.971639:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.972992:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.973174:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.973677:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:40.48:    1527675048.974100:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.974251:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.977672:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.979492:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.979737:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.984120:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:40.48:    1527675048.984341:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.984421:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.984581:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.984880:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.985046:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.987425:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.987795:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.987926:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.992729:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:40.48:    1527675048.992995:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.994733:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.995154:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--191) of manifest.
+2018/04/31 19:40.48:    1527675048.996580:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:40.48:    1527675048.996924:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:40.48:    1527675048.997088:6ABE0326E806*                 :CSMA Data frame: frame len=223, FEC OK
+2018/04/31 19:44.00:    1527675240.545580:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--255) of manifest.
+2018/04/31 19:44.00:    1527675240.546124:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.546507:6ABE0326E806*                 :CSMA Data frame: frame len=224, FEC OK
+2018/04/31 19:44.00:    1527675240.546838:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.546973:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.547347:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.547746:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.549343:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.549778:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.551724:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.551916:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.552235:6ABE0326E806*                 :CSMA Data frame: frame len=233, FEC OK
+2018/04/31 19:44.00:    1527675240.552992:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.553140:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.554096:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.554249:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.555791:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.558518:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.558684:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.561635:6ABE0326E806*                 :CSMA Data frame: frame len=224, FEC OK
+2018/04/31 19:44.00:    1527675240.565880:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [64--191) of manifest.
+2018/04/31 19:44.00:    1527675240.581525:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.581982:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:44.00:    1527675240.583303:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--255) of manifest.
+2018/04/31 19:44.00:    1527675240.583571:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.588759:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:44.00:    1527675240.591780:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.593829:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.594387:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [64--127) of manifest.
+2018/04/31 19:44.00:    1527675240.594674:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.594871:6ABE0326E806*                 :CSMA Data frame: frame len=212, FEC OK
+2018/04/31 19:44.00:    1527675240.595239:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.600270:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.602992:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.603371:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.603782:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.603928:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.605802:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.605998:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.606324:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:44.00:    1527675240.608244:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.608735:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.608938:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.609405:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.612166:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.612597:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:44.00:    1527675240.612973:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.613123:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.615854:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.616184:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.616363:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.616873:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:44.00:    1527675240.617236:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:17.01 (    2130608821.271041)
+2018/04/31 19:44.00:    1527675240.617323:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.617509:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.621275:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.621586:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.622070:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.622244:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.623593:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.623989:6ABE0326E806*                 :CSMA Data frame: frame len=232, FEC OK
+2018/04/31 19:44.00:    1527675240.624285:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:17.02 (    2130608822.151659)
+2018/04/31 19:44.00:    1527675240.624509:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.624678:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.624972:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--63) of manifest.
+2018/04/31 19:44.00:    1527675240.631031:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.633240:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:44.00:    1527675240.633480:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.637755:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.637934:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.638198:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.638305:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.643399:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:44.00:    1527675240.643760:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.643875:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.644195:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [64--127) of manifest.
+2018/04/31 19:44.00:    1527675240.644465:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.644699:6ABE0326E806*                 :CSMA Data frame: frame len=212, FEC OK
+2018/04/31 19:44.00:    1527675240.644903:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--127) of manifest.
+2018/04/31 19:44.00:    1527675240.645329:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.650540:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:44.00:    1527675240.654726:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.654906:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.655155:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--191) of manifest.
+2018/04/31 19:44.00:    1527675240.655551:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.656251:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.656611:6ABE0326E806*                 :CSMA Data frame: frame len=228, FEC OK
+2018/04/31 19:44.00:    1527675240.656978:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.657136:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.657472:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [64--127) of manifest.
+2018/04/31 19:44.00:    1527675240.657867:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.658225:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.658421:6ABE0326E806*                 :CSMA Data frame: frame len=223, FEC OK
+2018/04/31 19:44.00:    1527675240.663981:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.664284:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.664875:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.665075:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.665396:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.665541:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.673424:6ABE0326E806*                 :CSMA Data frame: frame len=214, FEC OK
+2018/04/31 19:44.00:    1527675240.673857:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.674056:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.674384:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.00:    1527675240.674534:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.00:    1527675240.674862:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--63) of manifest.
+2018/04/31 19:44.00:    1527675240.675156:6ABE0326E806*                 :CSMA Data frame: frame len=233, FEC OK
+2018/04/31 19:44.03:    1527675243.641244:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:17.06 (    2130608826.793708)
+2018/04/31 19:44.03:    1527675243.641539:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--127) of manifest.
+2018/04/31 19:44.03:    1527675243.641996:6ABE0326E806*                 :CSMA Data frame: frame len=221, FEC OK
+2018/04/31 19:44.03:    1527675243.642372:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.642550:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.642942:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.643096:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.643387:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.643555:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.644371:6ABE0326E806*                 :CSMA Data frame: frame len=214, FEC OK
+2018/04/31 19:44.03:    1527675243.645892:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.646131:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.646625:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.648490:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:44.03:    1527675243.649673:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.649961:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.651376:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--191) of manifest.
+2018/04/31 19:44.03:    1527675243.659079:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.659841:6ABE0326E806*                 :CSMA Data frame: frame len=212, FEC OK
+2018/04/31 19:44.03:    1527675243.662952:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.663121:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.663781:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--63) of manifest.
+2018/04/31 19:44.03:    1527675243.663969:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.664167:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.664254:6ABE0326E806*                 :CSMA Data frame: frame len=223, FEC OK
+2018/04/31 19:44.03:    1527675243.666727:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [192--311) of manifest. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.668911:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.669099:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:44.03:    1527675243.673917:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.674431:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.674686:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.674768:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.675362:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.675504:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.675728:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.675856:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.679918:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:44.03:    1527675243.689910:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.690304:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.690507:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--191) of manifest.
+2018/04/31 19:44.03:    1527675243.690723:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.691384:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.691658:6ABE0326E806*                 :CSMA Data frame: frame len=223, FEC OK
+2018/04/31 19:44.03:    1527675243.691903:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.692047:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.692403:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.692598:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.697334:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--191) of manifest.
+2018/04/31 19:44.03:    1527675243.697806:6ABE0326E806*                 :CSMA Data frame: frame len=223, FEC OK
+2018/04/31 19:44.03:    1527675243.698120:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.698315:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.698637:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.698818:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.704800:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.705189:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK
+2018/04/31 19:44.03:    1527675243.705560:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.705810:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.707663:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.707940:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.708538:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [128--191) of manifest.
+2018/04/31 19:44.03:    1527675243.709160:6ABE0326E806*                 :CSMA Data frame: frame len=223, FEC OK
+2018/04/31 19:44.03:    1527675243.711886:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.712191:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.713416:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.713570:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.713907:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.714069:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.714463:6ABE0326E806*                 :CSMA Data frame: frame len=214, FEC OK
+2018/04/31 19:44.03:    1527675243.714822:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:17.15 (    2130608835.057405)
+2018/04/31 19:44.03:    1527675243.714986:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.715171:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.723912:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.724129:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.724405:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--63) of manifest.
+2018/04/31 19:44.03:    1527675243.724708:6ABE0326E806*                 :CSMA Data frame: frame len=234, FEC OK
+2018/04/31 19:44.03:    1527675243.724958:6abe0326e806*                 :Timestamp: stratum=0xFF, time 2037/06/09 05:17.16 (    2130608836.072930)
+2018/04/31 19:44.03:    1527675243.725119:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.727964:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.728160:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.728237:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.728378:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.728563:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.730793:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.730968:6ABE0326E806*                 :CSMA Data frame: frame len=232, FEC OK
+2018/04/31 19:44.03:    1527675243.731467:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.733133:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.733245:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.733448:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.733523:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.733701:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:44.03:    1527675243.737819:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [64--191) of manifest.
+2018/04/31 19:44.03:    1527675243.746458:6ABE0326E806*                 :CSMA Data frame: frame len=229, FEC OK
+2018/04/31 19:44.03:    1527675243.746814:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.746953:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.753264:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.753423:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.753573:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.753696:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.754004:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.03:    1527675243.754222:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.03:    1527675243.754793:6ABE0326E806*                 :CSMA Data frame: frame len=230, FEC OK
+2018/04/31 19:44.28:    1527675268.337922:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.28:    1527675268.338462:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.28:    1527675268.339432:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [256--311) of manifest. This is the last piece of that.
+2018/04/31 19:44.28:    1527675268.339960:6abe0326e806*                 :Payload length: BID=3A7C1F198FDB**, version 0x0000000003, length = 3 bytes
+2018/04/31 19:44.28:    1527675268.340182:6abe0326e806*                 :Piece of bundle: BID=3a7c1f198fdbd87a*, [0--2) of payload. This is the last piece of that.
+2018/04/31 19:44.28:    1527675268.340466:6ABE0326E806*                 :CSMA Data frame: frame len=225, FEC OK

@@ -1,0 +1,36 @@
+\babel@toc {USenglish}{}
+\contentsline {chapter}{\numberline {1}general presentation of the test network}{2}
+\contentsline {section}{\numberline {1.1}Goals}{2}
+\contentsline {section}{\numberline {1.2}Components}{2}
+\contentsline {subsection}{\numberline {1.2.1}Hardware components}{2}
+\contentsline {subsection}{\numberline {1.2.2}software}{4}
+\contentsline {section}{\numberline {1.3}Big picture}{4}
+\contentsline {subsection}{\numberline {1.3.1}Big picture of the network}{5}
+\contentsline {subsection}{\numberline {1.3.2}Big picture of the software}{5}
+\contentsline {subsubsection}{client to server communication}{5}
+\contentsline {subsubsection}{client\_shell and client interactions}{6}
+\contentsline {chapter}{\numberline {2}Install}{7}
+\contentsline {section}{\numberline {2.1}Basic requirements}{7}
+\contentsline {section}{\numberline {2.2}Network setup}{8}
+\contentsline {subsection}{\numberline {2.2.1}Configuration of the main router}{8}
+\contentsline {subsection}{\numberline {2.2.2}slave router configuration}{12}
+\contentsline {subsection}{\numberline {2.2.3}remote router configuration}{17}
+\contentsline {section}{\numberline {2.3}Software installation}{17}
+\contentsline {subsection}{\numberline {2.3.1}client installation}{17}
+\contentsline {subsection}{\numberline {2.3.2}server installation}{18}
+\contentsline {subsubsection}{Cross-compilation of the server}{18}
+\contentsline {subsubsection}{Adding the server to the router}{20}
+\contentsline {chapter}{\numberline {3}How to use it?}{22}
+\contentsline {chapter}{\numberline {4}Unfinished parts}{24}
+\contentsline {section}{\numberline {4.1}Wi-Fi monitoring}{24}
+\contentsline {section}{\numberline {4.2}Phone}{24}
+\contentsline {subsection}{\numberline {4.2.1}How to install scrcpy}{25}
+\contentsline {chapter}{\numberline {5}Resources used}{27}
+\contentsline {section}{\numberline {5.1}Network}{27}
+\contentsline {section}{\numberline {5.2}server}{27}
+\contentsline {section}{\numberline {5.3}client}{27}
+\contentsline {section}{\numberline {5.4}client\_shell}{27}
+\contentsline {section}{\numberline {5.5}Phone}{28}
+\contentsline {section}{\numberline {5.6}Other useful references}{28}
+\vspace *{\baselineskip }
+\contentsline {chapter}{List of Figures}{29}

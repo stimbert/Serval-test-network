@@ -1,0 +1,23 @@
+Name:     DetectCodanHF (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:21.285
+Finished: 2018-04-10 15:03:21.497
+++++++++++ log.stdout ++++++++++
+15:03:21.317 # SETUP
+15:03:21.341 # call setup_DetectCodanHF()
+15:03:21.373 ERROR: in setup_servald: servald executable not present: 
+15:03:21.395 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup_DetectCodanHF() at line 270 of ./tests/lbard
+15:03:21.416 #-----
+15:03:21.426 # FINALISE
+15:03:21.437 # CALL finally(DetectCodanHF)
+15:03:21.448 # fork_terminate_all
+15:03:21.461 # fork_wait_all
+15:03:21.470 # END FINALLY
+15:03:21.477 # TEARDOWN
+15:03:21.488 # CALL teardown(DetectCodanHF)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

@@ -1,0 +1,24 @@
+Name:     TenSendersCombined6 (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:27.128
+Finished: 2018-04-10 15:03:27.240
+++++++++++ log.stdout ++++++++++
+15:03:27.150 # SETUP
+15:03:27.164 # call setup_TenSendersCombined6()
+15:03:27.178 ERROR: in setup_servald: servald executable not present: 
+15:03:27.186 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup20() at line 107 of ./tests/lbard
+[2] setup20() called from setup_TenSendersCombined6() at line 897 of ./tests/lbard
+15:03:27.195 #-----
+15:03:27.199 # FINALISE
+15:03:27.204 # CALL finally(TenSendersCombined6)
+15:03:27.211 # fork_terminate_all
+15:03:27.217 # fork_wait_all
+15:03:27.222 # END FINALLY
+15:03:27.228 # TEARDOWN
+15:03:27.234 # CALL teardown(TenSendersCombined6)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

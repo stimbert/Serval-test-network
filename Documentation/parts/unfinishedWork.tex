@@ -1,0 +1,107 @@
+\chapter{Unfinished parts}
+
+
+\section{Wi-Fi monitoring}
+
+I wanted to integrate some c code for this part but I unfortunately didn't have the time to do it. Right now, we have to use a temporary solution with the package tcpdump and wireshark (a graphic network tool to analyse messages going through the network).
+
+tcpdump is a Linux package that can be installed on the routers. This package allow an user to scan all the messages going through an interface. Therefore, using this command, we can analyse the Wi-Fi communication going around the router.
+We can install this package on the remote router.
+
+Then on the computer in the lab, you simply have to use the following command:
+
+\begin{lstlisting}[language=bash]
+ssh root@192.168.8.11 tcpdump -i wlan0 -U -s0 -w - 'not port 22' | ... 
+... sudo wireshark -k -i -
+\end{lstlisting}
+
+With this command, we launch the command tcpdump on the remote router. It will analyse the Wi-Fi interface called wlan0. Then the result of the tcpdump command is sent to our computer and displayed through wireshark. 
+
+
+
+\section{Phone}
+
+
+I managed to remotely control a phone using virtual machines. I had the phone plugged into one virtual machine, and I was controlling the phone in the other virtual machine.
+
+All the component used for this solution were supposed to be available on the small routers. I was hoping it would work smoothly. However, when I tried it on the small routers it didn't work. I still have a proof of concept on virtual machines. It should be possible to make it work on the small router even if it needs to be a little tweaked.
+
+The solution is based on:
+\begin{itemize}
+	\item adb (android debug bridge) and scrcpy on the computer
+	\item usbip on the small router
+\end{itemize}
+
+scrcpy is a free open software that use adb to give the user a full control of his phone through a computer. When you launch scrcpy, it will reproduce the screen of your phone on the computer and you can use it.
+There is only one issue with scrcpy. It is a very heavy software and can therefore not run on the small routers. 
+The solution I came up with was to make scrcpy work on the computer. scrcpy will display the screen of your phone as long as adb can reach it. adb has two ways to reach a phone: through a usb connection or through the network. So I wanted to use the usb connection since the phone will be connected by Wi-Fi to the Mesh Extender and by usb to the remote router. On Linux, there is a package called usbip. This package can make a usb connection work over the network. So we have the phone connected to the remote router using usb. The router transfers this connection to the computer using the network. The computer can use scrcpy to control the phone.
+
+
+\subsection{How to install scrcpy}
+
+
+First, let's start by installing the required package:
+\begin{lstlisting}
+apt install ffmpeg libsdl2-2.0.0
+apt install make gcc pkg-config meson libavcodec-dev 
+	libavformat-dev libavutil-dev libsdl2-dev
+apt install openjdk-8-jdk
+\end{lstlisting}
+
+
+
+Now we need to install android studio:
+\begin{itemize}
+	\item Download the compressed file on their website
+  \item Extract the files
+  \item Goto bin folder inside the extracted files
+  \item Launch the studio.sh file: ./studio.sh
+  \item It will open the installer, follow the instruction
+\end{itemize}
+
+
+Activate sdk licenses:
+\begin{itemize}
+	\item Go to ~/Android/Sdk/tools/bin
+	\item ./sdkmanager --licenses
+\end{itemize}
+        
+
+Create the Android SDK environment variable:
+\begin{lstlisting}
+export ANDROID_HOME=~/Android/Sdk
+\end{lstlisting}
+
+Watch out, the path could be ~/android/sdk instead of ~/Android/Sdk	.
+
+
+Clone and install scrcpy:
+\begin{lstlisting}
+...:# git clone https://github.com/Genymobile/scrcpy
+
+
+
+...:# cd scrcpy/
+...:scrcpy# mkdir x
+...:scrcpy# meson x --buildtype release --strip -Db_lto=true
+The Meson build system
+Version: 0.45.1
+Source dir: .../scrcpy
+Build dir: .../scrcpy/x
+Build type: native build
+Project name: scrcpy
+Native C compiler: cc (...)
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Found pkg-config: /usr/bin/pkg-config (0.29.1)
+Native dependency libavformat found: YES 57.83.100
+Native dependency libavcodec found: YES 57.107.100
+Native dependency libavutil found: YES 55.78.100
+Native dependency sdl2 found: YES 2.0.8
+Configuring config.h using configuration
+Program ./scripts/build-wrapper.sh found: YES (...)
+Build targets in project: 6
+Found ninja-1.8.2 at /usr/bin/ninja
+\end{lstlisting}			
+				
+				

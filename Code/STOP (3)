@@ -1,0 +1,847 @@
+Decoding message #4578 from 6abe0326e806*, length = 197:
+Saw message section with type 'S' (0x53) @ offset $08, len=197
+### [16:51.58.389 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:51.58.389 0000*] : Handler consumed 12 packet bytes.
+Saw message section with type 'q' (0x71) @ offset $14, len=197
+### [16:51.58.389 0000*] : Calling message handler for type 'q' @ offset 0x14
+>>> [16:51.58.389 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: manifest [128,256) 
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [128..256)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:51.58.389 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [128,256)
+Sending BITMAP
+>>> [16:51.58.390 0000*] Scheduling bitmap report.
+### [16:51.58.390 0000*] : Handler consumed 151 packe@“úüt bytes.
+Saw message section with type 'p' (0x70) @ offset $ab, len=197
+### [16:51.58.390 0000*] : Calling message handler for type 'p' @ offset 0xab
+>>> [16:51.58.390 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:51.58.390 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:51.58.391 0000*] Scheduling bitmap report.
+### [16:51.58.391 0000*] : Handler consumed 26 packet bytes.
+Decoding message #4579 from 6abe0326e806*, length = 197:
+Saw message section with type 'q' (0x71) @ offset $08, len=197
+### [16:51.59.396 0000*] : Calling message handler for type 'q' @ offset 0x8
+>>> [16:51.59.396 0000*] Saw a piece of BID=d3df8de@“úüa7d75dc65* from SID=6abe0326e806*: manifest [128,256) 
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [128..256)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:51.59.396 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [128,256)
+Sending BITMAP
+>>> [16:51.59.397 0000*] Scheduling bitmap report.
+### [16:51.59.397 0000*] : Handler consumed 151 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $9f, len=197
+### [16:51.59.397 0000*] : Calling message handler for type 'p' @ offset 0x9f
+>>> [16:51.59.397 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #1@“úü5 : 6ABE* (T-0 sec)
+>>> [16:51.59.397 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:51.59.397 0000*] Scheduling bitmap report.
+### [16:51.59.397 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $b9, len=197
+### [16:51.59.397 0000*] : Calling message handler for type 'S' @ offset 0xb9
+### [16:51.59.397 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4580 from 6abe0326e806*, length = 198:
+Saw message section with type 'p' (0x70) @ offset $08, len=198
+### [16:52.00.403 0000*] : Calling message handler for type 'p' @ offset 0x8
+>>> [16:52.00.403 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: manifest [256,312) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [256..312)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle @“úüd3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.00.403 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [256,312)
+Sending BITMAP
+>>> [16:52.00.404 0000*] Scheduling bitmap report.
+### [16:52.00.404 0000*] : Handler consumed 79 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $57, len=198
+### [16:52.00.404 0000*] : Calling message handler for type 'L' @ offset 0x57
+### [16:52.00.404 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $6c, len=198
+### [16:52.00.404 0000*] : Calling message handler for type 'p' @ offset 0x6c
+>>> [16:52.00.404 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.00.404 @“úü0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.00.404 0000*] Scheduling bitmap report.
+### [16:52.00.404 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $86, len=198
+### [16:52.00.404 0000*] : Calling message handler for type 'p' @ offset 0x86
+>>> [16:52.00.404 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.00.404 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.00.404 0000*] Scheduling bitmap report.
+### [16:52.00.404 0000*] : Han@“úüdler consumed 26 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $a0, len=198
+### [16:52.00.404 0000*] : Calling message handler for type 'p' @ offset 0xa0
+>>> [16:52.00.404 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.00.404 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.00.404 0000*] Scheduling bitmap report.
+### [16:52.00.404 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $ba, len=198
+### [16:52.00.404 0000*] : Calling message handler for type 'S' @ offset 0xba
+### [16:52.00.404 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4581 f@“úürom 6abe0326e806*, length = 198:
+Saw message section with type 'L' (0x4c) @ offset $08, len=198
+### [16:52.01.409 0000*] : Calling message handler for type 'L' @ offset 0x8
+### [16:52.01.410 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $1d, len=198
+### [16:52.01.410 0000*] : Calling message handler for type 'p' @ offset 0x1d
+>>> [16:52.01.410 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.01.410 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.01.411 0000*] Scheduling bitmap report.
+### [16:52.01.411 0000*] : Handler consumed 26 packet bytes.
+Saw message section wit@“úüh type 'L' (0x4c) @ offset $37, len=198
+### [16:52.01.411 0000*] : Calling message handler for type 'L' @ offset 0x37
+### [16:52.01.411 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $4c, len=198
+### [16:52.01.411 0000*] : Calling message handler for type 'p' @ offset 0x4c
+>>> [16:52.01.411 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.01.411 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.01.412 0000*] Scheduling bitmap report.
+### [16:52.01.412 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $66, len=198
+### [16:52.01.4@“úü12 0000*] : Calling message handler for type 'L' @ offset 0x66
+### [16:52.01.412 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $7b, len=198
+### [16:52.01.412 0000*] : Calling message handler for type 'p' @ offset 0x7b
+>>> [16:52.01.412 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.01.412 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.01.412 0000*] Scheduling bitmap report.
+### [16:52.01.412 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $95, len=198
+### [16:52.01.412 0000*] : Calling message handler for type 'L' @ offs@“úüet 0x95
+### [16:52.01.412 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $aa, len=198
+### [16:52.01.412 0000*] : Calling message handler for type 'p' @ offset 0xaa
+>>> [16:52.01.412 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.01.412 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.01.412 0000*] Scheduling bitmap report.
+### [16:52.01.412 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $c4, len=198
+### [16:52.01.412 0000*] : Calling message handler for type 'S' @ offset 0xc4
+### [16:52.01.412 0000*] : Handler consumed 2 p@“úüacket bytes.
+Decoding message #4582 from 6abe0326e806*, length = 187:
+Saw message section with type 'G' (0x47) @ offset $08, len=187
+### [16:52.02.620 0000*] : Calling message handler for type 'G' @ offset 0x8
+### [16:52.02.620 0000*] : Handler consumed 5 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $0d, len=187
+### [16:52.02.620 0000*] : Calling message handler for type 'S' @ offset 0xd
+### [16:52.02.620 0000*] : Handler consumed 12 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $19, len=187
+### [16:52.02.620 0000*] : Calling message handler for type 'L' @ offset 0x19
+### [16:52.02.622 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $2e, len=187
+### [16:52.02.622 0000*] : Calling message handler for type 'p' @ offset 0x2e
+>>> [16:52.02.622 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bu@“úündle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.02.622 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.02.624 0000*] Scheduling bitmap report.
+### [16:52.02.624 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $48, len=187
+### [16:52.02.624 0000*] : Calling message handler for type 'L' @ offset 0x48
+### [16:52.02.624 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $5d, len=187
+### [16:52.02.624 0000*] : Calling message handler for type 'p' @ offset 0x5d
+>>> [16:52.02.624 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Rece@“úünt senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.02.624 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.02.624 0000*] Scheduling bitmap report.
+### [16:52.02.624 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $77, len=187
+### [16:52.02.624 0000*] : Calling message handler for type 'L' @ offset 0x77
+### [16:52.02.625 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $8c, len=187
+### [16:52.02.625 0000*] : Calling message handler for type 'p' @ offset 0x8c
+>>> [16:52.02.625 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+@“úü>>> [16:52.02.625 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.02.626 0000*] Scheduling bitmap report.
+### [16:52.02.626 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $a6, len=187
+### [16:52.02.626 0000*] : Calling message handler for type 'L' @ offset 0xa6
+Decoding message #4583 from 6abe0326e806*, length = 187:
+Saw message section with type 'S' (0x53) @ offset $08, len=187
+### [16:52.03.430 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.03.430 0000*] : Handler consumed 12 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $14, len=187
+### [16:52.03.430 0000*] : Calling message handler for type 'L' @ offset 0x14
+### [16:52.03.430 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $29, len=187
+### [16:52.03.430 0000*] : Calling message handler for@“úü type 'p' @ offset 0x29
+>>> [16:52.03.430 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.03.431 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.03.432 0000*] Scheduling bitmap report.
+### [16:52.03.432 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $43, len=187
+### [16:52.03.432 0000*] : Calling message handler for type 'L' @ offset 0x43
+### [16:52.03.432 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $58, len=187
+### [16:52.03.432 0000*] : Calling message handler for type 'p' @ offset 0x58
+>>> [16:52.03.433 0000*] Saw a @“úüpiece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.03.433 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.03.433 0000*] Scheduling bitmap report.
+### [16:52.03.433 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $72, len=187
+### [16:52.03.433 0000*] : Calling message handler for type 'L' @ offset 0x72
+### [16:52.03.433 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $87, len=187
+### [16:52.03.433 0000*] : Calling message handler for type 'p' @ offset 0x87
+>>> [16:52.03.433 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: @“úübody [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.03.433 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.03.435 0000*] Scheduling bitmap report.
+### [16:52.03.435 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $a1, len=187
+### [16:52.03.435 0000*] : Calling message handler for type 'p' @ offset 0xa1
+>>> [16:52.03.435 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.03.435 0000*@“úü] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.03.435 0000*] Scheduling bitmap report.
+### [16:52.03.435 0000*] : Handler consumed 26 packet bytes.
+Decoding message #4584 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.04.441 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.04.441 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4585 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.05.446 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.05.446 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4586 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.06.458 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.06.458 0000*] : Handler@“úü consumed 12 packet bytes.
+Decoding message #4587 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.07.465 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.07.465 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4588 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.08.471 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.08.471 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4589 from 6abe0326e806*, length = 33:
+Saw message section with type 'T' (0x54) @ offset $08, len=33
+### [16:52.09.576 0000*] : Calling message handler for type 'T' @ offset 0x8
+Not logging timestamp message, since we logged one just recently (1529565729-1529565683 = 46).
+### [16:52.09.576 0000*] : Handler consumed 13 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $15, len=33
+### [16:52.09.576 0000*] : Calling message handler for type 'S' @ offset@“úü 0x15
+### [16:52.09.576 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4590 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.10.581 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.10.581 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4591 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.11.587 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.11.587 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4592 from 6abe0326e806*, length = 33:
+Saw message section with type 'T' (0x54) @ offset $08, len=33
+### [16:52.12.594 0000*] : Calling message handler for type 'T' @ offset 0x8
+Not logging timestamp message, since we logged one just recently (1529565732-1529565683 = 49).
+### [16:52.12.594 0000*] : Handler consumed 13 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $15, len=33
+### [16:52.12.594 0000*] : Calli@“úüng message handler for type 'S' @ offset 0x15
+### [16:52.12.594 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4593 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.13.600 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.13.600 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4594 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.14.614 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.14.614 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4595 from 6abe0326e806*, length = 25:
+Saw message section with type 'G' (0x47) @ offset $08, len=25
+### [16:52.15.620 0000*] : Calling message handler for type 'G' @ offset 0x8
+### [16:52.15.620 0000*] : Handler consumed 5 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $0d, len=25
+### [16:52.15.621 0000*] : Calling message handler for type 'S' @ offset 0xd
+### [16:52.15.621 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4596 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.16.626 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.16.626 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4597 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.18.645 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.18.645 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4598 from 6abe0326e806*, length = 20:
+Saw message section with type 'S' (0x53) @ offset $08, len=20
+### [16:52.18.646 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.18.646 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4599 from 6abe0326e806*, length = 197:
+Saw message section with type 'q' (0x71) @ offset $08, len=197
+### [16:52.19.651 0000*] : Calling message handler for type 'q' @ offset 0x8
+>>> [16:52.19.651 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: manifest [64,192) 
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [64..192)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.19.651 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [64,192)
+Sending BITMAP
+>>> [16:52.19.656 0000*] Scheduling bitmap report.
+### [16:52.19.656 0000*] : Handler consumed 151 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $9f, len=197
+### [16:52.19.656 0000*] : Calling message handler for type 'p' @ offset 0x9f
+>>> [16:52.19.656 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.19.656 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.19.661 0000*] Scheduling bitmap report.
+### [16:52.19.661 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $b9, len=197
+### [16:52.19.661 0000*] : Calling message handler for type 'S' @ offset 0xb9
+### [16:52.19.661 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4600 from 6abe0326e806*, length = 198:
+Saw message section with type 'L' (0x4c) @ offset $08, len=198
+### [16:52.20.665 0000*] : Calling message handler for type 'L' @ offset 0x8
+### [16:52.20.665 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $1d, len=198
+### [16:52.20.665 0000*] : Calling message handler for type 'p' @ offset 0x1d
+>>> [16:52.20.666 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.20.666 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.20.671 0000*] Scheduling bitmap report.
+### [16:52.20.671 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $37, len=198
+### [16:52.20.675 0000*] : Calling message handler for type 'L' @ offset 0x37
+### [16:52.20.675 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $4c, len=198
+### [16:52.20.675 0000*] : Calling message handler for type 'p' @ offset 0x4c
+>>> [16:52.20.675 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.20.675 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.20.680 0000*] Scheduling bitmap report.
+### [16:52.20.680 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $66, len=198
+### [16:52.20.680 0000*] : Calling message handler for type 'L' @ offset 0x66
+### [16:52.20.680 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $7b, len=198
+### [16:52.20.680 0000*] : Calling message handler for type 'p' @ offset 0x7b
+>>> [16:52.20.680 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.20.680 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.20.681 0000*] Scheduling bitmap report.
+### [16:52.20.681 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $95, len=198
+### [16:52.20.681 0000*] : Calling message handler for type 'L' @ offset 0x95
+### [16:52.20.682 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $aa, len=198
+### [16:52.20.682 0000*] : Calling message handler for type 'p' @ offset 0xaa
+>>> [16:52.20.682 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.20.682 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.20.687 0000*] Scheduling bitmap report.
+### [16:52.20.687 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $c4, len=198
+### [16:52.20.687 0000*] : Calling message handler for type 'S' @ offset 0xc4
+### [16:52.20.687 0000*] : Handler consumed 2 packet bytes.
+Decoding message #4601 from 6abe0326e806*, length = 195:
+Saw message section with type 'T' (0x54) @ offset $08, len=195
+### [16:52.21.591 0000*] : Calling message handler for type 'T' @ offset 0x8
+Not logging timestamp message, since we logged one just recently (1529565741-1529565683 = 58).
+### [16:52.21.591 0000*] : Handler consumed 13 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $15, len=195
+### [16:52.21.591 0000*] : Calling message handler for type 'L' @ offset 0x15
+### [16:52.21.591 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $2a, len=195
+### [16:52.21.591 0000*] : Calling message handler for type 'p' @ offset 0x2a
+>>> [16:52.21.591 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.21.591 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.21.601 0000*] Scheduling bitmap report.
+### [16:52.21.601 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $44, len=195
+### [16:52.21.601 0000*] : Calling message handler for type 'L' @ offset 0x44
+### [16:52.21.601 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $59, len=195
+### [16:52.21.601 0000*] : Calling message handler for type 'p' @ offset 0x59
+>>> [16:52.21.601 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.21.601 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.21.609 0000*] Scheduling bitmap report.
+### [16:52.21.609 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $73, len=195
+### [16:52.21.609 0000*] : Calling message handler for type 'L' @ offset 0x73
+### [16:52.21.609 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $88, len=195
+### [16:52.21.609 0000*] : Calling message handler for type 'p' @ offset 0x88
+>>> [16:52.21.609 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.21.609 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.21.612 0000*] Scheduling bitmap report.
+### [16:52.21.612 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $a2, len=195
+### [16:52.21.612 0000*] : Calling message handler for type 'L' @ offset 0xa2
+### [16:52.21.613 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $b7, len=195
+### [16:52.21.616 0000*] : Calling message handler for type 'S' @ offset 0xb7
+### [16:52.21.616 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4602 from 6abe0326e806*, length = 193:
+Saw message section with type 'L' (0x4c) @ offset $08, len=193
+### [16:52.22.131 0000*] : Calling message handler for type 'L' @ offset 0x8
+### [16:52.22.138 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $1d, len=193
+### [16:52.22.144 0000*] : Calling message handler for type 'p' @ offset 0x1d
+>>> [16:52.22.145 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.22.148 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.22.149 0000*] Scheduling bitmap report.
+### [16:52.22.149 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $37, len=193
+### [16:52.22.151 0000*] : Calling message handler for type 'p' @ offset 0x37
+>>> [16:52.22.152 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: manifest [256,312) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [256..312)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.22.154 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [256,312)
+Sending BITMAP
+>>> [16:52.22.155 0000*] Scheduling bitmap report.
+### [16:52.22.155 0000*] : Handler consumed 79 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $86, len=193
+### [16:52.22.158 0000*] : Calling message handler for type 'L' @ offset 0x86
+### [16:52.22.158 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $9b, len=193
+### [16:52.22.164 0000*] : Calling message handler for type 'p' @ offset 0x9b
+>>> [16:52.22.164 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.22.167 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.22.167 0000*] Scheduling bitmap report.
+### [16:52.22.171 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $b5, len=193
+### [16:52.22.171 0000*] : Calling message handler for type 'S' @ offset 0xb5
+### [16:52.22.171 0000*] : Handler consumed 12 packet bytes.
+Decoding message #4603 from 6abe0326e806*, length = 200:
+Saw message section with type 'T' (0x54) @ offset $08, len=200
+### [16:52.22.674 0000*] : Calling message handler for type 'T' @ offset 0x8
+Not logging timestamp message, since we logged one just recently (1529565742-1529565683 = 59).
+### [16:52.22.674 0000*] : Handler consumed 13 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $15, len=200
+### [16:52.22.674 0000*] : Calling message handler for type 'S' @ offset 0x15
+### [16:52.22.674 0000*] : Handler consumed 12 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $21, len=200
+### [16:52.22.674 0000*] : Calling message handler for type 'L' @ offset 0x21
+### [16:52.22.674 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $36, len=200
+### [16:52.22.674 0000*] : Calling message handler for type 'p' @ offset 0x36
+>>> [16:52.22.674 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece f@“úüor BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.22.674 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.22.681 0000*] Scheduling bitmap report.
+### [16:52.22.681 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $50, len=200
+### [16:52.22.681 0000*] : Calling message handler for type 'L' @ offset 0x50
+### [16:52.22.681 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $65, len=200
+### [16:52.22.681 0000*] : Calling message handler for type 'p' @ offset 0x65
+>>> [16:52.22.681 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.22.681 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.22.684 0000*] Scheduling bitmap report.
+### [16:52.22.684 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $7f, len=200
+### [16:52.22.684 0000*] : Calling message handler for type 'L' @ offset 0x7f
+### [16:52.22.684 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $94, len=200
+### [16:52.22.684 0000*] : Calling message handler for type 'p' @ offset 0x94
+>>> [16:52.22.684 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.22.684 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.22.685 0000*] Scheduling bitmap report.
+### [16:52.22.685 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $ae, len=200
+### [16:52.22.685 0000*] : Calling message handler for type 'p' @ offset 0xae
+>>> [16:52.22.685 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.22.686 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.22.690 0000*] Scheduling bitmap report.
+### [16:52.22.690 0000*] : Handler consumed 26 packet bytes.
+Decoding message #4604 from 6abe0326e806*, length = 198:
+Saw message section with type 'p' (0x70) @ offset $08, len=198
+### [16:52.23.193 0000*] : Calling message handler for type 'p' @ offset 0x8
+>>> [16:52.23.194 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: manifest [192,312) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [192..312)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.23.194 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [192,312)
+Sending BITMAP
+>>> [16:52.23.202 0000*] Scheduling bitmap report.
+### [16:52.23.203 0000*] : Handler consumed 143 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $97, len=198
+### [16:52.23.212 0000*] : Calling message handler for type 'L' @ offset 0x97
+### [16:52.23.212 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $ac, len=198
+### [16:52.23.217 0000*] : Calling message handler for type 'p' @ offset 0xac
+>>> [16:52.23.217 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.23.220 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.23.220 0000*] Scheduling bitmap report.
+### [16:52.23.221 0000*] : Handler consumed 26 packet bytes.
+Decoding message #4605 from 6abe0326e806*, length = 180:
+Saw message section with type 'T' (0x54) @ offset $08, len=180
+### [16:52.23.724 0000*] : Calling message handler for type 'T' @ offset 0x8
+Not logging timestamp message, since we logged one just recently (1529565743-1529565683 = 60).
+### [16:52.23.724 0000*] : Handler consumed 13 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $15, len=180
+### [16:52.23.724 0000*] : Calling message handler for type 'S' @ offset 0x15
+### [16:52.23.724 0000*] : Handler consumed 12 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $21, len=180
+### [16:52.23.724 0000*] : Calling message handler for type 'p' @ offset 0x21
+>>> [16:52.23.724 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: manifest [256,312) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [256..312)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 s@“úüec)
+>>> [16:52.23.724 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [256,312)
+Sending BITMAP
+>>> [16:52.23.729 0000*] Scheduling bitmap report.
+### [16:52.23.729 0000*] : Handler consumed 79 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $70, len=180
+### [16:52.23.729 0000*] : Calling message handler for type 'L' @ offset 0x70
+### [16:52.23.729 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $85, len=180
+### [16:52.23.729 0000*] : Calling message handler for type 'p' @ offset 0x85
+>>> [16:52.23.729 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.23.729 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.23.732 0000*] Scheduling bitmap report.
+### [16:52.23.732 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $9f, len=180
+### [16:52.23.732 0000*] : Calling message handler for type 'L' @ offset 0x9f
+Decoding message #4606 from 6abe0326e806*, length = 198:
+Saw message section with type 'L' (0x4c) @ offset $08, len=198
+### [16:52.24.235 0000*] : Calling message handler for type 'L' @ offset 0x8
+### [16:52.24.236 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $1d, len=198
+### [16:52.24.236 0000*] : Calling message handler for type 'p' @ offset 0x1d
+>>> [16:52.24.236 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.24.236 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.24.239 0000*] Scheduling bitmap report.
+### [16:52.24.239 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $37, len=198
+### [16:52.24.239 0000*] : Calling message handler for type 'L' @ offset 0x37
+### [16:52.24.239 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $4c, len=198
+### [16:52.24.239 0000*] : Calling message handler for type 'p' @ offset 0x4c
+>>> [16:52.24.239 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.24.239 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.24.242 0000*] Scheduling bitmap report.
+### [16:52.24.242 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $66, len=198
+### [16:52.24.242 0000*] : Calling message handler for type 'L' @ offset 0x66
+### [16:52.24.242 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $7b, len=198
+### [16:52.24.242 0000*] : Calling message handler for type 'p' @ offset 0x7b
+>>> [16:52.24.242 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.24.242 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.24.244 0000*] Scheduling bitmap report.
+### [16:52.24.244 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $95, len=198
+### [16:52.24.244 0000*] : Calling message handler for type 'L' @ offset 0x95
+### [16:52.24.244 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $aa, len=198
+### [16:52.24.244 0000*] : Calling message handler for type 'p' @ offset 0xaa
+>>> [16:52.24.244 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.24.244 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.24.245 0000*] Scheduling bitmap report.
+### [16:52.24.245 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $c4, len=198
+### [16:52.24.245 0000*] : Calling message handler for type 'S' @ offset 0xc4
+### [16:52.24.245 0000*] : Handler consumed 2 packet bytes.
+Decoding message #4607 from 6abe0326e806*, length = 192:
+Saw message section with type 'G' (0x47) @ offset $08, len=192
+### [16:52.24.747 0000*] : Calling message handler for type 'G' @ offset 0x8
+### [16:52.24.747 0000*] : Handler consumed 5 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $0d, len=192
+### [16:52.24.747 0000*] : Calling message handler for type 'S' @ offset 0xd
+### [16:52.24.751 0000*] : Handler consumed 12 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $19, len=192
+### [16:52.24.752 0000*] : Calling message handler for type 'L' @ offset 0x19
+### [16:52.24.752 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $2e, len=192
+### [16:52.24.752 0000*] : Calling message handler for type 'p' @ offset 0x2e
+>>> [16:52.24.753 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.24.753 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.24.757 0000*] Scheduling bitmap report.
+### [16:52.24.757 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $48, len=192
+### [16:52.24.757 0000*] : Calling message handler for type 'L' @ offset 0x48
+### [16:52.24.757 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $5d, len=192
+### [16:52.24.757 0000*] : Calling message handler for type 'p' @ offset 0x5d
+>>> [16:52.24.757 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.24.757 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.24.758 0000*] Scheduling bitmap report.
+### [16:52.24.758 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $77, len=192
+### [16:52.24.758 0000*] : Calling message handler for type 'L' @ offset 0x77
+### [16:52.24.758 0000*] : Handler consumed 21 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $8c, len=192
+### [16:52.24.758 0000*] : Calling message handler for type 'p' @ offset 0x8c
+>>> [16:52.24.758 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.24.759 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.24.760 0000*] Scheduling bitmap report.
+### [16:52.24.760 0000*] : Handler consumed 26 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $a6, len=192
+### [16:52.24.760 0000*] : Calling message handler for type 'p' @ offset 0xa6
+>>> [16:52.24.760 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.24.760 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.24.763 0000*] Scheduling bitmap report.
+### [16:52.24.763 0000*] : Handler consumed 26 packet bytes.
+Decoding message #4608 from 6abe0326e806*, length = 197:
+Saw message section with type 'S' (0x53) @ offset $08, len=197
+### [16:52.25.265 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.25.265 0000*] : Handler consumed 12 packet bytes.
+Saw message section with type 'q' (0x71) @ offset $14, len=197
+### [16:52.25.265 0000*] : Calling message handler for type 'q' @ offset 0x14
+>>> [16:52.25.265 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: manifest [64,192) 
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [64..192)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.25.265 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [64,192)
+Sending BITMAP
+>>> [16:52.25.269 0000*] Scheduling bitmap report.
+### [16:52.25.269 0000*] : Handler consumed 151 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $ab, len=197
+### [16:52.25.269 0000*] : Calling message handler for type 'p' @ offset 0xab
+>>> [16:52.25.269 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..3)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.25.269 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,3)
+Sending BITMAP
+>>> [16:52.25.272 0000*] Scheduling bitmap report.
+### [16:52.25.272 0000*] : Handler consumed 26 packet bytes.
+Decoding message #4609 from 6abe0326e806*, length = 197:
+Saw message section with type 'S' (0x53) @ offset $08, len=197
+### [16:52.26.275 0000*] : Calling message handler for type 'S' @ offset 0x8
+### [16:52.26.275 0000*] : Handler consumed 12 packet bytes.
+Saw message section with type 'q' (0x71) @ offset $14, len=197
+### [16:52.26.275 0000*] : Calling message handler for type 'q' @ offset 0x14
+>>> [16:52.26.275 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: manifest [0,128) 
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [0..128)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.26.276 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is 312 bytes long (RX bitmap feff), and body 3 bytes long. Bitmap p=    3 : (Piece was [0,128)
+>>> [16:52.26.278 0000*] We have the entire bundle d3df8dea7d75dc65*/3 now.
+
+CHECKPOINT: src/rhizome/rhizome_socket.c:228 rhizome_update_bundle()
+Submitting rhizome bundle: manifest len=590, body len=3
+POST bundle to rhizome failed: http result = -1
+Failed to insert bundle d3df8dea7d75dc65*/3 (result=-1)
+
+
+### [16:52.26.279 0000*] : Handler consumed 151 packet bytes.
+Saw message section with type 'p' (0x70) @ offset $ab, len=197
+### [16:52.26.279 0000*] : Calling message handler for type 'p' @ offset 0xab
+>>> [16:52.26.284 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: body [0,3) END PIECE
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Didn't find bundle in partials for this peer. first spare slot =128
+@@@   Using slot 128
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.26.289 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is -1 bytes long (RX bitmap 0000), and body -1 bytes long. Bitmap p=    0 : Inserting piece [0..3) before [-1..-1)
+(Piece was [0,3)
+Sending BITMAP
+>>> [16:52.26.290 0000*] Scheduling bitmap report.
+### [16:52.26.291 0000*] : Handler consumed 26 packet bytes.
+Decoding message #4610 from 6abe0326e806*, length = 197:
+Saw message section with type 'G' (0x47) @ offset $08, len=197
+### [16:52.27.294 0000*] : Calling message handler for type 'G' @ offset 0x8
+### [16:52.27.294 0000*] : Handler consumed 5 packet bytes.
+Saw message section with type 'S' (0x53) @ offset $0d, len=197
+### [16:52.27.295 0000*] : Calling message handler for type 'S' @ offset 0xd
+### [16:52.27.295 0000*] : Handler consumed 12 packet bytes.
+Saw message section with type 'q' (0x71) @ offset $19, len=197
+### [16:52.27.295 0000*] : Calling message handler for type 'q' @ offset 0x19
+>>> [16:52.27.297 0000*] Saw a piece of BID=d3df8dea7d75dc65* from SID=6abe0326e806*: manifest [64,192) 
+Saw another piece for BID=d3df8dea7d75dc65* from SID=6abe0326e806: [64..192)
+Saw a piece of interesting bundle BID=d3df8dea7d75dc65*/3 from SID=6abe0326e806
+Recent senders for bundle d3df*/3:
+  #15 : 6ABE* (T-0 sec)
+>>> [16:52.27.297 0000*] Progress receiving BID=d3df8dea7d75dc65* version 3: manifest is -1 bytes long (RX bitmap 0000), and body 3 bytes long. Bitmap p=    3 : Inserting piece [64..192) before [-1..-1)
+(Piece was [64,192)
+Sending BITMAP
+>>> [16:52.27.300 0000*] Scheduling bitmap report.
+### [16:52.27.300 0000*] : Handler consumed 151 packet bytes.
+Saw message section with type 'L' (0x4c) @ offset $b0, len=197
+### [16:52.27.300 0000*] : Calling message handler for type 'L' @ offset 0xb0

@@ -1,0 +1,24 @@
+Name:     NTenSendersCombined (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:23.821
+Finished: 2018-04-10 15:03:23.955
+++++++++++ log.stdout ++++++++++
+15:03:23.842 # SETUP
+15:03:23.857 # call setup_NTenSendersCombined()
+15:03:23.879 ERROR: in setup_servald: servald executable not present: 
+15:03:23.889 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup20() at line 107 of ./tests/lbard
+[2] setup20() called from setup_NTenSendersCombined() at line 532 of ./tests/lbard
+15:03:23.896 #-----
+15:03:23.903 # FINALISE
+15:03:23.909 # CALL finally(NTenSendersCombined)
+15:03:23.918 # fork_terminate_all
+15:03:23.926 # fork_wait_all
+15:03:23.933 # END FINALLY
+15:03:23.939 # TEARDOWN
+15:03:23.947 # CALL teardown(NTenSendersCombined)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

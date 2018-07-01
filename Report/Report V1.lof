@@ -1,0 +1,29 @@
+\babel@toc {USenglish}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Telstra cellular coverage (Telstra.com.au, 2018)\relax }}{5}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Serval project structure\relax }}{6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces First prototype of the Mesh Extender (Gardner-Stephen et al., 2017a)\relax }}{8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Seconde version of the Mesh Extender (Gardner-Stephen et al., 2017a)\relax }}{9}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Latest version of the Mesh Extender in its natural environment (Gardner-Stephen et al., 2017a)\relax }}{9}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Mesh Extender location (Gardner-Stephen, 2018a)\relax }}{11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Mesh Extender\relax }}{14}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Routers used for the testbed (source: https://www.gl-inet.com/)\relax }}{14}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Other devices needed\relax }}{15}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Big picture of the network\relax }}{16}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Mesh Extender's messages through the testbed\relax }}{17}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Client and server communication\relax }}{18}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Client and Client\_shell interaction\relax }}{19}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Bridge network with relayd (source: https://wiki.openwrt.org/doc/recipes/relayclient)\relax }}{22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Using the client\_shell\relax }}{27}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces The client is connection to the server\relax }}{28}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The client is receiving data\relax }}{28}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Closing the client\relax }}{28}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Remote Wi-Fi analysis\relax }}{28}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Remote phone control\relax }}{29}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

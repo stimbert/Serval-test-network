@@ -1,0 +1,24 @@
+Name:     One (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:22.193
+Finished: 2018-04-10 15:03:22.323
+++++++++++ log.stdout ++++++++++
+15:03:22.223 # SETUP
+15:03:22.242 # call setup_One()
+15:03:22.254 ERROR: in setup_servald: servald executable not present: 
+15:03:22.262 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup() at line 38 of ./tests/lbard
+[2] setup() called from setup_One() at line 365 of ./tests/lbard
+15:03:22.270 #-----
+15:03:22.276 # FINALISE
+15:03:22.283 # CALL finally(One)
+15:03:22.290 # fork_terminate_all
+15:03:22.299 # fork_wait_all
+15:03:22.304 # END FINALLY
+15:03:22.309 # TEARDOWN
+15:03:22.316 # CALL teardown(One)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

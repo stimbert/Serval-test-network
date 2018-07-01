@@ -1,0 +1,24 @@
+Name:     MessageDeliveryWithTraffic (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:25.137
+Finished: 2018-04-10 15:03:25.320
+++++++++++ log.stdout ++++++++++
+15:03:25.167 # SETUP
+15:03:25.182 # call setup_MessageDeliveryWithTraffic()
+15:03:25.203 ERROR: in setup_servald: servald executable not present: 
+15:03:25.222 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup() at line 38 of ./tests/lbard
+[2] setup() called from setup_MessageDeliveryWithTraffic() at line 713 of ./tests/lbard
+15:03:25.237 #-----
+15:03:25.253 # FINALISE
+15:03:25.268 # CALL finally(MessageDeliveryWithTraffic)
+15:03:25.284 # fork_terminate_all
+15:03:25.295 # fork_wait_all
+15:03:25.300 # END FINALLY
+15:03:25.306 # TEARDOWN
+15:03:25.314 # CALL teardown(MessageDeliveryWithTraffic)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

@@ -1,0 +1,24 @@
+Name:     FileDeliveryThreeHops15 (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:25.845
+Finished: 2018-04-10 15:03:25.962
+++++++++++ log.stdout ++++++++++
+15:03:25.869 # SETUP
+15:03:25.885 # call setup_FileDeliveryThreeHops15()
+15:03:25.902 ERROR: in setup_servald: servald executable not present: 
+15:03:25.907 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup() at line 38 of ./tests/lbard
+[2] setup() called from setup_FileDeliveryThreeHops15() at line 748 of ./tests/lbard
+15:03:25.914 #-----
+15:03:25.919 # FINALISE
+15:03:25.924 # CALL finally(FileDeliveryThreeHops15)
+15:03:25.932 # fork_terminate_all
+15:03:25.938 # fork_wait_all
+15:03:25.944 # END FINALLY
+15:03:25.949 # TEARDOWN
+15:03:25.956 # CALL teardown(FileDeliveryThreeHops15)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

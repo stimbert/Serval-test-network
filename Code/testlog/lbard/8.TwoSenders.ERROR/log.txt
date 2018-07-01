@@ -1,0 +1,24 @@
+Name:     TwoSenders (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:22.924
+Finished: 2018-04-10 15:03:23.075
+++++++++++ log.stdout ++++++++++
+15:03:22.943 # SETUP
+15:03:22.957 # call setup_TwoSenders()
+15:03:22.981 ERROR: in setup_servald: servald executable not present: 
+15:03:22.991 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup() at line 38 of ./tests/lbard
+[2] setup() called from setup_TwoSenders() at line 437 of ./tests/lbard
+15:03:22.998 #-----
+15:03:23.005 # FINALISE
+15:03:23.012 # CALL finally(TwoSenders)
+15:03:23.021 # fork_terminate_all
+15:03:23.031 # fork_wait_all
+15:03:23.037 # END FINALLY
+15:03:23.043 # TEARDOWN
+15:03:23.058 # CALL teardown(TwoSenders)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

@@ -1,0 +1,23 @@
+Name:     DetectBarrettHF (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:21.622
+Finished: 2018-04-10 15:03:21.763
+++++++++++ log.stdout ++++++++++
+15:03:21.647 # SETUP
+15:03:21.663 # call setup(DetectBarrettHF)
+15:03:21.679 ERROR: in setup_servald: servald executable not present: 
+15:03:21.686 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup() at line 38 of ./tests/lbard
+15:03:21.694 #-----
+15:03:21.702 # FINALISE
+15:03:21.711 # CALL finally(DetectBarrettHF)
+15:03:21.724 # fork_terminate_all
+15:03:21.735 # fork_wait_all
+15:03:21.741 # END FINALLY
+15:03:21.748 # TEARDOWN
+15:03:21.756 # CALL teardown(DetectBarrettHF)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

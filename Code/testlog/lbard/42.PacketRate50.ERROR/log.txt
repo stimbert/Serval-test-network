@@ -1,0 +1,24 @@
+Name:     PacketRate50 (lbard)
+Result:   ERROR
+Started:  2018-04-10 15:03:30.247
+Finished: 2018-04-10 15:03:30.350
+++++++++++ log.stdout ++++++++++
+15:03:30.265 # SETUP
+15:03:30.275 # call setup_PacketRate50()
+15:03:30.291 ERROR: in setup_servald: servald executable not present: 
+15:03:30.301 #----- shell backtrace -----
+[0] error() called from setup_servald() at line 146 of /home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh
+[1] setup_servald() called from setup20() at line 107 of ./tests/lbard
+[2] setup20() called from setup_PacketRate50() at line 1288 of ./tests/lbard
+15:03:30.312 #-----
+15:03:30.319 # FINALISE
+15:03:30.325 # CALL finally(PacketRate50)
+15:03:30.330 # fork_terminate_all
+15:03:30.335 # fork_wait_all
+15:03:30.339 # END FINALLY
+15:03:30.343 # TEARDOWN
+15:03:30.347 # CALL teardown(PacketRate50)
+++++++++++
+++++++++++ log.stderr ++++++++++
+/home/stephane/Documents/LBARD/lbard/serval-dna/testdefs.sh: ligne 322: servald_instances_dir: :
+++++++++++

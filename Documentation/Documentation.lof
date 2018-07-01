@@ -1,0 +1,22 @@
+\babel@toc {USenglish}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Mesh Extender\relax }}{3}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Routers used for the testbed\relax }}{3}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Other devices needed\relax }}{4}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Client and server communication\relax }}{5}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Client and Client\_shell interaction\relax }}{6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Bridge network using relayd (source:https://wiki.openwrt.org/doc/recipes/relayclient)\relax }}{8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Wi-Fi network created\relax }}{9}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces General configuration of the Wi-Fi network\relax }}{10}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Security parameters\relax }}{11}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces DHCP static leases \relax }}{11}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Joining the main router network\relax }}{13}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Creation of the bridge interface\relax }}{14}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces General set up the bridge interface\relax }}{15}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Advanced settings of the bridge interface\relax }}{16}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces General settings of the LAN interface\relax }}{17}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Menuconfig interface\relax }}{19}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
